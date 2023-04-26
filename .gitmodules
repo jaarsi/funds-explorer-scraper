@@ -1,6 +1,8 @@
 [submodule "api"]
 	path = api
 	url = git@github.com:jaarsi/funds-explorer-scraper-api.git
+	branch = main
 [submodule "web"]
 	path = web
 	url = git@github.com:jaarsi/funds-explorer-scraper-web.git
+	branch = main
